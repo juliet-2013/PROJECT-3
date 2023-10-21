@@ -34,13 +34,13 @@ The data used in this project was obtained from [https://www.kaggle.com/datasets
 In the data exploration phase, we analyzed the dataset to understand its structure, distribution, and relationships between variables. We visualized key insights to identify patterns and potential factors influencing customer churn.
 
 # Data Preprocessing
-Data preprocessing is essential to prepare the data for modeling. It involves handling missing values, outliers, and transforming categorical variables. Additionally, data scaling and splitting into training and testing sets are performed.
+Data preprocessing is essential to prepare the data for modeling. It involves handling missing values, and outliers, and transforming categorical variables. Additionally, data scaling and splitting into training and testing sets are performed.
 
 # Feature Engineering
 Feature engineering is crucial for creating informative variables that can improve model performance. This step involves the creation of new features, such as customer tenure, and one-hot encoding categorical variables.
 
 # Modeling
-We employed machine learning techniques, including but not limited to logistic regression, decision trees, random forests, and K Nearest Neighbour , to build predictive models for customer churn. Model selection and hyperparameter tuning were performed to optimize model performance.
+We employed machine learning techniques, including but not limited to logistic regression, decision trees, random forests, and K Nearest Neighbour, to build predictive models for customer churn. Model selection and hyperparameter tuning were performed to optimize model performance.
 
 # Evaluation
 The models' performance was evaluated using various metrics such as accuracy, precision, recall, F1-score, and ROC AUC. We also visualized the results using confusion matrices and ROC curves. The model with the best performance was selected as our final churn prediction model.
@@ -49,7 +49,7 @@ The models' performance was evaluated using various metrics such as accuracy, pr
 This project aims to provide Syriatel with a predictive model to identify potential churners. By taking proactive measures with at-risk customers, the company can reduce customer churn and improve customer retention, ultimately leading to increased profitability.
 
 
-for more information visit 
+For more information visit [https://github.com/juliet-2013/PROJECT-3/blob/main/index.ipynb]
 
 
 
